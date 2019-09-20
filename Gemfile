@@ -42,7 +42,7 @@ gem 'bootstrap-sass', '~> 3.3', '>= 3.3.6'
 # Nested forms using cocoon
 gem 'cocoon', '~> 1.2', '>= 1.2.9'
 # Manage user accounts
-gem 'devise', '~> 4.1', '>= 4.1.1'
+gem 'devise', '~> 4.7'
 
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
