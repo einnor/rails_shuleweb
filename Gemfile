@@ -32,7 +32,7 @@ gem 'jbuilder', '~> 2.0'
 gem 'sdoc', '~> 0.4.0', group: :doc
 
 # Haml (HTML ABstraction Markup Language)
-gem 'haml', '~> 4.0', '>= 4.0.7'
+gem 'haml', '~> 5.0'
 # Forms made easy
 gem 'simple_form', '~> 3.2', '>= 3.2.1'
 # Upload images
